@@ -6,7 +6,7 @@ Designed to look great on **desktop, tablet, and mobile devices** 📱💻
 ---
 
 ## 🎬 Live Preview
-🔗 *Add your GitHub Pages link here once deployed*
+https://omid-shamkhali.github.io/interactive-art-landing-page/
 
 ---
 

@@ -6,7 +6,7 @@ Designed to look great on **desktop, tablet, and mobile devices** 📱💻
 ---
 
 ## 🎬 Live Preview
-https://omid-shamkhali.github.io/interactive-art-landing-page/
+https://omid-shamkhali.github.io/interactive-art-landing-page/html-flex-respansive/
 
 ---
 

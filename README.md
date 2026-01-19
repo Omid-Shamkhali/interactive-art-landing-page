@@ -13,7 +13,7 @@ Designed to look great on **desktop, tablet, and mobile devices** 📱💻
 ---
 
 ## 🛠️ Technologies Used
-This project was built with the following technologies:
+
 
 - 🧱 **HTML5** – Semantic and clean structure  
 - 🎨 **CSS3**
@@ -23,39 +23,66 @@ This project was built with the following technologies:
 - 🧠 **JavaScript (Vanilla JS)**
   - Mobile menu toggle
   - Click-outside menu close logic
-- 📐 **Responsive Web Design**
+ - Responsive Web Design**
 
 ---
 
 
 🎯 Features
+---
 ✅ Fully responsive layout
+
 ✅ Mobile hamburger menu 🍔
+
 ✅ Smooth hover effects ✨
+
 ✅ Testimonials section 💬
+
 ✅ Portfolio gallery 🖼️
+
 ✅ Newsletter subscription UI 📧
+
 ✅ Clean and readable code structure
 
-📱 Responsive Breakpoints
+
+
 Device	Screen Width
+---
+
 🖥️ Desktop	> 1200px
+
 💻 Laptop	992px
+
 📱 Tablet	768px
+
 📱 Mobile	576px
+
 🧩 JavaScript Highlights
+---
+
 🔹 Toggle mobile navigation
+
 🔹 Change icon (☰ ↔ ✖)
+
 🔹 Close menu by clicking outside
 
+
 🎨 UI Sections
+---
 
 🧭 Navigation Bar
+
 🎯 Hero Section
+
 ⚙️ How It Works
+
 💬 Customer Testimonials
+
 🏢 Company Logos
+
 🖼️ Portfolio Gallery
+
 📩 Newsletter Section
+
 ©️ Footer
 
